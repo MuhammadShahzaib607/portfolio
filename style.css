@@ -553,7 +553,15 @@ footer {
 
 @media (max-width: 450px){
  .hero-image {
-    width: 100%;
-    height: 345px;
+    width: 330px;
+    height: 330px;
  }   
 }
+
+@media (max-width: 350px){
+ .hero-image {
+    width: 220px;
+    height: 220px;
+ }   
+}
+
